@@ -26,7 +26,7 @@ namespace Crawler
             using var client = new HttpClient();
             var responseMessage = await client.GetAsync(url);
             int statusCode = (int)responseMessage.StatusCode;
-            if (statusCode > 200 && statusCode < 299)
+            if (statusCode < 200 && statusCode >299)
             {
                 throw new Exception("blad w czasie pobrania strony");
             }
