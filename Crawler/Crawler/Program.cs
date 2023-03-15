@@ -1,4 +1,6 @@
-﻿using System.Text.RegularExpressions;
+﻿using System.ComponentModel.DataAnnotations;
+using System.Net.Mail;
+using System.Text.RegularExpressions;
 
 namespace Crawler
 {
@@ -21,17 +23,18 @@ namespace Crawler
             await getcont(url);
         }
 
+        
+
         static async Task getcont(string url)
         {
             using var client = new HttpClient();
-            var responseMessage = await client.GetAsync(url);
-            int statusCode = (int)responseMessage.StatusCode;
-            if (statusCode < 200 && statusCode >299)
+            HttpResponseMessage responseMessage = await client.GetAsync(url);
+            if (!responseMessage.IsSuccessStatusCode)
             {
                 throw new Exception("blad w czasie pobrania strony");
             }
-            var content1 = await client.GetStringAsync(url);
-            Regex extractEmailsRegex = new Regex(@"\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*");
+            string content1 = await client.GetStringAsync(url);
+            Regex extractEmailsRegex = new Regex(@"\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*", RegexOptions.IgnoreCase);
             Array arr = extractEmailsRegex.Matches(content1)
                 .Select(m => m.Value)
                 .Distinct().ToArray();
