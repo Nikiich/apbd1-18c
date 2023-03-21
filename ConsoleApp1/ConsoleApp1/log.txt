@@ -1,0 +1,101 @@
+err, nie poprawny duplikat::: Paweł; Nowak1; 459; 2000-02-12; 1@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 4 sem; Dzienne
+err, nie poprawny duplikat::: Paweł; Nowak1; 459; 2000-02-12; 1@pjwstk.edu.pl; Alina; Adam; Informatyka doktoranckie; Dzienne
+err, nie poprawny duplikat::: Justyna; Kowalski30; 4749; 2000-02-12; 30@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów uzupełniające magisterskie; Dzienne
+err, nie poprawny duplikat::: Michał; Nowak31; 4432; 2000-02-12; 31@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów uzupełniające magisterskie; Dzienne
+err, nie poprawny duplikat::: Joanna; Brzęczyszczykiewicz37; 4799; 2000-02-12; 37@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów uzupełniające magisterskie; Dzienne
+err, nie poprawny duplikat::: Irena; Maciejewski38; 4626; 2000-02-12; 38@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów zaoczne; Zaoczne
+err, nie poprawny duplikat::: Kacper; Kowalski40; 4396; 2000-02-12; 40@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów uzupełniające magisterskie; Dzienne
+err, nie poprawny duplikat::: Paweł; Nowak41; 4902; 2000-02-12; 41@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów zaoczne; Zaoczne
+err, brakujace pola::: Aleksandra; ; 4434; 2000-02-12; 42@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów dzienne; Dzienne
+err, nie poprawny duplikat::: Aleksandra; Brzęczyszczykiewicz42; 4434; 2000-02-12; 42@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów zaoczne 6 sem.; Zaoczne
+err, nie poprawny duplikat::: Jan; Nowak46; 4842; 2000-02-12; 46@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów zaoczne 6 sem.; Zaoczne
+err, nie poprawny duplikat::: Jakub; Jankowski49; 4789; 2000-02-12; 49@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów zaoczne; Zaoczne
+err, nie poprawny duplikat::: Sabina; Brzęczyszczykiewicz52; 4513; 2000-02-12; 52@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów uzupełniające magisterskie; Dzienne
+err, nie poprawny duplikat::: Jan; Nowak56; 4649; 2000-02-12; 56@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów uzupełniające magisterskie; Dzienne
+err, nie poprawny duplikat::: Jakub; Brzęczyszczykiewicz57; 4755; 2000-02-12; 57@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów uzupełniające magisterskie; Dzienne
+err, nie poprawny duplikat::: Karolina; Jankowski64; 4423; 2000-02-12; 64@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów uzupełniające magisterskie; Dzienne
+err, nie poprawny duplikat::: Magdalena; Nowak66; 4629; 2000-02-12; 66@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów uzupełniające magisterskie; Dzienne
+err, nie poprawny duplikat::: Paweł; Jankowski69; 4478; 2000-02-12; 69@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów uzupełniające magisterskie; Dzienne
+err, nie poprawny duplikat::: Kamil; Nowak71; 4741; 2000-02-12; 71@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów uzupełniające magisterskie; Dzienne
+err, nie poprawny duplikat::: Sandra; Brzęczyszczykiewicz77; 4800; 2000-02-12; 77@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów uzupełniające magisterskie; Dzienne
+err, nie poprawny duplikat::: Małgorzata; Maciejewski78; 4429; 2000-02-12; 78@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów uzupełniające magisterskie; Dzienne
+err, nie poprawny duplikat::: Klaudia; Jankowski84; 4849; 2000-02-12; 84@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów uzupełniające magisterskie; Dzienne
+err, nie poprawny duplikat::: Tomasz; Kowalski95; 3374; 2000-02-12; 95@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów dzienne; Dzienne
+err, brakujace pola::: Jolanta; Nowak96; 4756; 2000-02-12; 96@pjwstk.edu.pl; ; ; Sztuka Nowych Mediów uzupełniające magisterskie; Dzienne
+err, nie poprawny duplikat::: Paweł; Brzęczyszczykiewicz252; 4412; 2000-02-12; 252@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Kamil; Jankowski254; 4836; 2000-02-12; 254@pjwstk.edu.pl; Alina; Adam; Informatyka zaoczne; Zaoczne
+err, nie poprawny duplikat::: Michał; Brzęczyszczykiewicz257; 4454; 2000-02-12; 257@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Patryk; Maciejewski258; 4443; 2000-02-12; 258@pjwstk.edu.pl; Alina; Adam; Informatyka dzienne po angielsku; Dzienne
+err, nie poprawny duplikat::: Michał; Kowalski260; 4579; 2000-02-12; 260@pjwstk.edu.pl; Alina; Adam; Informatyka zaoczne; Zaoczne
+err, nie poprawny duplikat::: Zuzanna; Jankowski264; 4413; 2000-02-12; 264@pjwstk.edu.pl; Alina; Adam; Informatyka dzienne po angielsku; Dzienne
+err, nie poprawny duplikat::: Wojciech; Nowak266; 4554; 2000-02-12; 266@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Jakub; Kowalski270; 4711; 2000-02-12; 270@pjwstk.edu.pl; Alina; Adam; Informatyka internetowe; Internetowe
+err, nie poprawny duplikat::: Jakub; Kowalski270; 4711; 2000-02-12; 270@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Aleksandra; Brzęczyszczykiewicz272; 4549; 2000-02-12; 272@pjwstk.edu.pl; Alina; Adam; Informatyka dzienne po angielsku; Dzienne
+err, nie poprawny duplikat::: Aleksandra; Brzęczyszczykiewicz272; 4549; 2000-02-12; 272@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Piotr; Maciejewski273; 4618; 2000-02-12; 273@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Adrian; Jankowski274; 4530; 2000-02-12; 274@pjwstk.edu.pl; Alina; Adam; Informatyka zaoczne; Zaoczne
+err, nie poprawny duplikat::: Andrzej; Kowalski275; 4607; 2000-02-12; 275@pjwstk.edu.pl; Alina; Adam; Informatyka zaoczne; Zaoczne
+err, nie poprawny duplikat::: Wojciech; Nowak276; 4459; 2000-02-12; 276@pjwstk.edu.pl; Alina; Adam; Informatyka zaoczne; Zaoczne
+err, nie poprawny duplikat::: Agata; Nowak281; 4589; 2000-02-12; 281@pjwstk.edu.pl; Alina; Adam; Informatyka zaoczne; Zaoczne
+err, nie poprawny duplikat::: Agata; Nowak281; 4589; 2000-02-12; 281@pjwstk.edu.pl; Alina; Adam; Informatyka internetowe; Internetowe
+err, nie poprawny duplikat::: Piotr; Maciejewski283; 4556; 2000-02-12; 283@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie uzupełniające zaoczne; Zaoczne
+err, nie poprawny duplikat::: Grzegorz; Jankowski284; 4504; 2000-02-12; 284@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Sebastian; Kowalski285; 4505; 2000-02-12; 285@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Filip; Nowak286; 4105; 2000-02-12; 286@pjwstk.edu.pl; Alina; Adam; Informatyka zaoczne; Zaoczne
+err, nie poprawny duplikat::: Filip; Nowak286; 4105; 2000-02-12; 286@pjwstk.edu.pl; Alina; Adam; Informatyka jednolite magisterskie; Dzienne
+err, nie poprawny duplikat::: Artur; Maciejewski288; 4498; 2000-02-12; 288@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Piotr; Jankowski289; 4471; 2000-02-12; 289@pjwstk.edu.pl; Alina; Adam; Informatyka zaoczne; Zaoczne
+err, nie poprawny duplikat::: Piotr; Jankowski289; 4471; 2000-02-12; 289@pjwstk.edu.pl; Alina; Adam; Informatyka dzienne po angielsku; Dzienne
+err, nie poprawny duplikat::: Tomasz; Jankowski294; 4724; 2000-02-12; 294@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Michał; Nowak296; 4769; 2000-02-12; 296@pjwstk.edu.pl; Alina; Adam; Informatyka zaoczne; Zaoczne
+err, nie poprawny duplikat::: Jakub; Maciejewski298; 4733; 2000-02-12; 298@pjwstk.edu.pl; Alina; Adam; Informatyka internetowe; Internetowe
+err, nie poprawny duplikat::: Kasper; Jankowski299; 4584; 2000-02-12; 299@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Krzysztof; Kowalski300; 4514; 2000-02-12; 300@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie uzupełniające zaoczne; Zaoczne
+err, nie poprawny duplikat::: Katarzyna; Maciejewski303; 4935; 2000-02-12; 303@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Piotr; Kowalski305; 4456; 2000-02-12; 305@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Jan; Nowak306; 4107; 2000-02-12; 306@pjwstk.edu.pl; Alina; Adam; Informatyka internetowe; Internetowe
+err, nie poprawny duplikat::: Jan; Nowak306; 4107; 2000-02-12; 306@pjwstk.edu.pl; Alina; Adam; Informatyka jednolite magisterskie; Dzienne
+err, nie poprawny duplikat::: Jan; Nowak306; 4107; 2000-02-12; 306@pjwstk.edu.pl; Alina; Adam; Informatyka jednolite magisterskie po angielsku; Dzienne
+err, nie poprawny duplikat::: Kacper; Maciejewski308; 4817; 2000-02-12; 308@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Lech; Kowalski310; 4387; 2000-02-12; 310@pjwstk.edu.pl; Alina; Adam; Informatyka dzienne po angielsku; Dzienne
+err, nie poprawny duplikat::: Błażej; Nowak311; 4509; 2000-02-12; 311@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie uzupełniające zaoczne; Zaoczne
+err, nie poprawny duplikat::: Paweł; Maciejewski313; 4481; 2000-02-12; 313@pjwstk.edu.pl; Alina; Adam; Informatyka zaoczne; Zaoczne
+err, nie poprawny duplikat::: Wojciech; Jankowski314; 4512; 2000-02-12; 314@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Maciej; Kowalski315; 4782; 2000-02-12; 315@pjwstk.edu.pl; Alina; Adam; Informatyka Społeczna; Dzienne
+err, nie poprawny duplikat::: Michał; Kowalski320; 4627; 2000-02-12; 320@pjwstk.edu.pl; Alina; Adam; Informatyka dzienne po angielsku; Dzienne
+err, nie poprawny duplikat::: Krzysztof; Nowak321; 4830; 2000-02-12; 321@pjwstk.edu.pl; Alina; Adam; Informatyka zaoczne; Zaoczne
+err, nie poprawny duplikat::: Mariusz; Maciejewski323; 4447; 2000-02-12; 323@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Bartosz; Jankowski324; 4580; 2000-02-12; 324@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Piotr; Kowalski325; 4284; 2000-02-12; 325@pjwstk.edu.pl; Alina; Adam; Sztuka Nowych Mediów zaoczne; Zaoczne
+err, nie poprawny duplikat::: Michał; Nowak326; 4440; 2000-02-12; 326@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Paweł; Jankowski329; 4796; 2000-02-12; 329@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Nakul; Brzęczyszczykiewicz332; 4942; 2000-02-12; 332@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Tomoto; Maciejewski333; 4614; 2000-02-12; 333@pjwstk.edu.pl; Alina; Adam; Informatyka zaoczne; Zaoczne
+err, nie poprawny duplikat::: Adam; Kowalski335; 4433; 2000-02-12; 335@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Michał; Maciejewski338; 4419; 2000-02-12; 338@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Michał; Maciejewski338; 4419; 2000-02-12; 338@pjwstk.edu.pl; Alina; Adam; Informatyka doktoranckie; Dzienne
+err, nie poprawny duplikat::: Adrian; Nowak341; 4058; 2000-02-12; 341@pjwstk.edu.pl; Alina; Adam; Informatyka wieczorowe; Wieczorowe
+err, nie poprawny duplikat::: Michał; Brzęczyszczykiewicz342; 4524; 2000-02-12; 342@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Jagoda; Maciejewski348; 4532; 2000-02-12; 348@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Tomasz; Jankowski349; 4480; 2000-02-12; 349@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Michał; Nowak351; 4523; 2000-02-12; 351@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Bartosz; Brzęczyszczykiewicz352; 4766; 2000-02-12; 352@pjwstk.edu.pl; Alina; Adam; Informatyka internetowe; Internetowe
+err, nie poprawny duplikat::: Yuriy; Nowak356; 4422; 2000-02-12; 356@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Michał; Brzęczyszczykiewicz357; 4660; 2000-02-12; 357@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Mikołaj; Kowalski360; 3081; 2000-02-12; 360@pjwstk.edu.pl; Alina; Adam; Informatyka jednolite magisterskie; Dzienne
+err, nie poprawny duplikat::: Mikołaj; Kowalski360; 3081; 2000-02-12; 360@pjwstk.edu.pl; Alina; Adam; Informatyka jednolite magisterskie po angielsku; Dzienne
+err, nie poprawny duplikat::: Anna; Brzęczyszczykiewicz362; 4385; 2000-02-12; 362@pjwstk.edu.pl; Alina; Adam; Informatyka internetowe; Internetowe
+err, nie poprawny duplikat::: Michał; Jankowski364; 4522; 2000-02-12; 364@pjwstk.edu.pl; Alina; Adam; Informatyka dzienne po angielsku; Dzienne
+err, nie poprawny duplikat::: Karol; Nowak366; 4518; 2000-02-12; 366@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Adrian; Brzęczyszczykiewicz367; 4384; 2000-02-12; 367@pjwstk.edu.pl; Alina; Adam; Informatyka zaoczne; Zaoczne
+err, nie poprawny duplikat::: Adrian; Brzęczyszczykiewicz367; 4384; 2000-02-12; 367@pjwstk.edu.pl; Alina; Adam; Informatyka internetowe; Internetowe
+err, nie poprawny duplikat::: Łukasz; Maciejewski368; 4496; 2000-02-12; 368@pjwstk.edu.pl; Alina; Adam; Informatyka Społeczna; Dzienne
+err, nie poprawny duplikat::: Adam; Jankowski369; 4750; 2000-02-12; 369@pjwstk.edu.pl; Alina; Adam; Informatyka zaoczne; Zaoczne
+err, nie poprawny duplikat::: Adam; Jankowski369; 4750; 2000-02-12; 369@pjwstk.edu.pl; Alina; Adam; Informatyka internetowe; Internetowe
+err, nie poprawny duplikat::: Michał; Brzęczyszczykiewicz372; 4483; 2000-02-12; 372@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Tomasz; Maciejewski373; 4751; 2000-02-12; 373@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Tomasz; Maciejewski373; 4751; 2000-02-12; 373@pjwstk.edu.pl; Alina; Adam; MBA dla branży IT; Zaoczne
+err, nie poprawny duplikat::: Radosław; Jankowski374; 4528; 2000-02-12; 374@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
+err, nie poprawny duplikat::: Przemysław; Nowak376; 4814; 2000-02-12; 376@pjwstk.edu.pl; Alina; Adam; Informatyka zaoczne; Zaoczne
+err, nie poprawny duplikat::: Rafał; Nowak381; 4616; 2000-02-12; 381@pjwstk.edu.pl; Alina; Adam; Informatyka magisterskie 3 sem; Dzienne
