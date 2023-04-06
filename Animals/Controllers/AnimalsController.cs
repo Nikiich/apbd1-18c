@@ -1,4 +1,6 @@
-﻿using Animals.Models;
+﻿using System.Net;
+using Animals.DTO;
+using Animals.Models;
 using Animals.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -20,8 +22,15 @@ namespace Animals.Controllers
         [Route("/animals")]
         public async Task<IActionResult> GetAnimals(string orderBy)
         {
-            IList<Animal> list = await _animalsService.GetAnimalsListAsync(orderBy);
-            return Ok(list);
+            try
+            {
+                IList<Animal> list = await _animalsService.GetAnimalsListAsync(orderBy);
+                return Ok(list);
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
         }
 
         [HttpPost]
@@ -29,13 +38,41 @@ namespace Animals.Controllers
         {
             try
             {
-                await _animalsService.AddAnimals(animal);
+                var res = await _animalsService.AddAnimals(animal);
+                return Ok(res);
             }
             catch (Exception e)
             {
                 return BadRequest(e.Message);
             }
-            return Ok(await _animalsService.AddAnimals(animal));
+        }
+
+        [HttpPut]
+        [Route("/{idAnimal}")]
+        public async Task<IActionResult> UpdateAnimal(AnimalDTO animal, int idAnimal)
+        {
+            try
+            {
+                var res = await _animalsService.UpdateAnimals(animal, idAnimal);
+                return Ok(res);
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+        }
+
+        [HttpDelete]
+        [Route("/{idAnimal}")]
+        public async Task<IActionResult> DeleteAnimal(int idAnimal)
+        {
+            bool res = await _animalsService.DeleteAnimal(idAnimal);
+            if (res)
+            {
+                return Ok($"Deleted : id = {idAnimal} ");
+            }
+
+            return BadRequest($"Animal ID {idAnimal} does not exist");
         }
     }
 }
