@@ -57,13 +57,13 @@ namespace Animals.Services
             return list;
         }
 
-        public async Task<Animal> AddAnimals(Animal animal)
+        public async Task<Animal> AddAnimals(AnimalDTO animal)
         {
             await using SqlConnection conn = new SqlConnection(_configuration.GetConnectionString("DefaultConnection"));
             SqlCommand cmd = new();
-            string sqlQuery = "SET IDENTITY_INSERT Animal ON; " +
-                              "INSERT INTO Animal(IdAnimal, Name, Description, Category, Area) VALUES (@IdAnimal, @Name, @Description, @Category, @Area )";
-            cmd.Parameters.AddWithValue("IdAnimal", animal.IdAnimal);
+            string sqlQuery = 
+                              "INSERT INTO Animal(Name, Description, Category, Area) OUTPUT Inserted.IdAnimal VALUES (@Name, @Description, @Category, @Area )";
+            // cmd.Parameters.AddWithValue("IdAnimal", animal.IdAnimal);
             cmd.Parameters.AddWithValue("Name", animal.Name);
             cmd.Parameters.AddWithValue("Category", animal.Category);
             cmd.Parameters.AddWithValue("Description", animal.Description);
@@ -71,13 +71,16 @@ namespace Animals.Services
             cmd.Connection = conn;
             cmd.CommandText = sqlQuery;
             await conn.OpenAsync();
-            if (cmd.ExecuteNonQuery() < 1)
+            SqlDataReader reader = await cmd.ExecuteReaderAsync();
+            await reader.ReadAsync();
+            if (!reader.HasRows)
             {
                 throw new Exception("Invalid data");
             }
 
+            int pk = int.Parse(reader["IdAnimal"].ToString());
             await conn.CloseAsync();
-            return animal;
+            return new Animal(animal, pk);
         }
 
         public async Task<Animal> UpdateAnimals(AnimalDTO animal, int idAnimal)

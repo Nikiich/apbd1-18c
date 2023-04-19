@@ -34,7 +34,7 @@ namespace Animals.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> AddAnimals(Animal animal)
+        public async Task<IActionResult> AddAnimals(AnimalDTO animal)
         {
             try
             {
