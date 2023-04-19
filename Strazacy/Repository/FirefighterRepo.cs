@@ -40,8 +40,8 @@ namespace Strazacy.Repository
             if (action.EndTime != null) {
                 throw new Exception("Can not delete action with ENDTIME");
             }
-
-            query = $"DELETE Action WHERE IdAction = {idAction}";
+            await reader.CloseAsync();
+            query = $"DELETE FROM Action WHERE IdAction = {idAction}";
             command.CommandText = query;
             await command.ExecuteNonQueryAsync();
             await conn.CloseAsync();

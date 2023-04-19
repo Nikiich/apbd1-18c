@@ -6,7 +6,6 @@ namespace Strazacy.Models
     {
         public int IdAction { get; set; }
         public DateTime StartTime { get; set; }
-        [JsonIgnore]
         public DateTime? EndTime { get; set; }
         public bool NeedSpecialEquipment { get; set; }
         public List<FireTruck> Firetrucks { get; set; } = new List<FireTruck>();
